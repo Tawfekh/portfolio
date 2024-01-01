@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 26, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Abdou Rahmane Wade",
@@ -14,13 +21,6 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Profile",
-    "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -28,66 +28,10 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Profile",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Profile",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "genomicPrediction.html",
-    "href": "genomicPrediction.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "genomPred.html",
-    "href": "genomPred.html",
-    "title": "my work",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 26, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Profile",
-    "section": "",
-    "text": "I am a Sr. Data Scientist at Microsoft. I have extensive background working with varied data sets and using advanced analytics to enable business stakeholders to make informed decisions."
-  },
-  {
     "objectID": "work.html",
     "href": "work.html",
     "title": "Work",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-am-passionate-about-diversity-equity-and-inclusion-and-lead-actionable-initiatives-and-conversations-to-drive-inclusiveness-within-our-organization.",
-    "href": "index.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-am-passionate-about-diversity-equity-and-inclusion-and-lead-actionable-initiatives-and-conversations-to-drive-inclusiveness-within-our-organization.",
-    "title": "presentation",
-    "section": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity. I am passionate about Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within our organization.",
-    "text": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity. I am passionate about Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within our organization."
-  },
-  {
-    "objectID": "cv.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-am-passionate-about-diversity-equity-and-inclusion-and-lead-actionable-initiatives-and-conversations-to-drive-inclusiveness-within-our-organization.",
-    "href": "cv.html#i-recently-expanded-my-skill-set-to-include-topics-like-quarto-tidymodels-working-in-cross-language-rpython-environment-using-reticulate-and-data-visualizations-using-animation-and-interactivity.-i-am-passionate-about-diversity-equity-and-inclusion-and-lead-actionable-initiatives-and-conversations-to-drive-inclusiveness-within-our-organization.",
-    "title": "Profile",
-    "section": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity. I am passionate about Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within our organization.",
-    "text": "I recently expanded my skill set to include topics like Quarto, tidymodels, working in cross-language R/Python environment using Reticulate, and data visualizations using animation and interactivity. I am passionate about Diversity, Equity and Inclusion and lead actionable initiatives and conversations to drive inclusiveness within our organization."
   }
 ]

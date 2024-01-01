@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - text: CV
-        href: https://drive.google.com/file/d/18feoM4r-bbXYcd6yaYBIfOvsPygoIM7E/view
+        href: https://github.com/Tawfekh/curriculum_vitae/blob/main/template.pdf
       - work.qmd
       - projects.qmd
       - icon: twitter
