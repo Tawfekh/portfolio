@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Profile"
+  navbar:
+    right:
+      - text: CV
+        href: https://drive.google.com/file/d/18feoM4r-bbXYcd6yaYBIfOvsPygoIM7E/view
+      - work.qmd
+      - projects.qmd
+      - icon: twitter
+        href: https://twitter.com/rahmane_wade/
+      - icon: linkedin
+        href: https://linkedin.com/in/abdourahmanewade/
+      - icon: github
+        href: https://github.com/Tawfekh/
+      - icon: envelope
+        href: mailto:rakhmane.abdou@gmail.com
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+editor: visual
+

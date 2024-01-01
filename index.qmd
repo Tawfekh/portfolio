@@ -1,0 +1,30 @@
+---
+title: "Abdou Rahmane Wade"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 14em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/rahmane_wade/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/abdourahmanewade/
+    - icon: github
+      text: Github
+      href: https://github.com/Tawfekh/
+    - icon: envelope
+      text: Contact me
+      href: mailto:rakhmane.abdou@gmail.com
+    - icon: article
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=RG4-qBEAAAAJ&hl=fr
+---
+
+I am a statistical geneticist et data scientist à [RAGT](https://www.ragt.fr/)2N. I have 4+ years of broad-based experience in building machine learning models using large datasets of omic data (genomic, proteomic transcriptomic etc).
+
+I am proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including R, C++, Bash and Python.
+
+Please consult my CV [here](https://github.com/Tawfekh/curriculum_vitae/blob/main/template.pdf)
