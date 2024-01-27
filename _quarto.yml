@@ -6,9 +6,9 @@ website:
   navbar:
     right:
       - text: CV
-        href: https://github.com/Tawfekh/curriculum_vitae/blob/main/template.pdf
+        href: https://github.com/Tawfekh/curriculum_vitae/blob/main/cv.pdf
       - work.qmd
-      - projects.qmd
+      # - projects.qmd
       - icon: twitter
         href: https://twitter.com/rahmane_wade/
       - icon: linkedin
