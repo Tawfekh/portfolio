@@ -27,4 +27,4 @@ I am a statistical geneticist et data scientist à [RAGT](https://www.ragt.fr/)2
 
 I am proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including R, C++, Bash and Python.
 
-Please consult my CV [here](https://github.com/Tawfekh/curriculum_vitae/blob/main/template.pdf)
+Please consult my CV [here](https://github.com/Tawfekh/curriculum_vitae/blob/main/cv.pdf)
